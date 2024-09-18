@@ -1,5 +1,0 @@
-Nome = str(input('Digite seu nome completo: ')).strip()
-print(f'Seu nome em maiusculas: {Nome.upper()}')
-print(f'Seu nome em minusculas: {Nome.lower()}')
-print(f'Seu nome tem {len(Nome) - Nome.count(' ')} letras')
-print(f'Seu primeiro nome tem {Nome.find(' ')} letras')
