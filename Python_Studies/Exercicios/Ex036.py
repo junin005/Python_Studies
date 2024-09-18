@@ -15,4 +15,4 @@ mensalidade = casa / parcelas
 if limite >= mensalidade:
     print(f'Seu empréstimo é valido!\nO valor da Mensalidade sera de: R${mensalidade:.2f}\nA casa sera paga em {parcelas} parcelas.')
 else:
-    print(f'Seu empréstimo não foi aprovado, o valor da mensalidade R${mensalidade:.2f}) excedeu 30% do seu salario e por isso foi negado.')
+    print(f'Seu empréstimo não foi aprovado, o valor da mensalidade R${mensalidade:.2f} excedeu 30% do seu salario e por isso foi negado.')
