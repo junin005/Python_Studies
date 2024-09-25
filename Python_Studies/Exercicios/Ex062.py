@@ -18,7 +18,7 @@ def mostra_pa():
             
             if plus == 0:
                 print("Programa encerrado. Obrigado!")
-                return  # Encerra a função (e o programa) imediatamente
+                return  # Encerra a função (e o programa) imediatamente 
             
             plus = plus + i
             while i < plus:
